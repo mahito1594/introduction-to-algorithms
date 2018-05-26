@@ -1,6 +1,9 @@
-'''Linear serch'''
+'''Linear search'''
 
 def linear_search(sequence, value):
+    '''
+    search the index which value is equal to given one(by linear search)
+    '''
     for i in range(0, len(sequence)):
         if sequence[i] == value:
             return i
