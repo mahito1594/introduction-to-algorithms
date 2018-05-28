@@ -32,6 +32,3 @@ if __name__ == '__main__':
     # sort
     r_insert_sort(MY_LIST, n)
     print(MY_LIST)
-    # seq = [4, 3]
-    # insert(seq, 1)
-    # print(seq)
